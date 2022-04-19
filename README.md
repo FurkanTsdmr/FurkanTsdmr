@@ -1,8 +1,9 @@
 ### Hi there 👋
 ![snake svg](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 - 🔭 I’m currently working on Frontend
 - 🌱 I’m currently learning React
-<!--
+
 **FurkanTsdmr/FurkanTsdmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

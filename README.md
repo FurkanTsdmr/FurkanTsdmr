@@ -76,8 +76,8 @@
 <br />
 
 ---
-<p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalkarakollu" alt="bilalkarakollu" /></a></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalkarakollu&show_icons=true&locale=en&layout=compact" alt="bilalkarakollu" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalkarakollu&show_icons=true&locale=en" alt="bilalkarakollu" width="50%" /></p><br />
+<p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FurkanTsdmr" alt="furkantasdemir" /></a></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FurkanTsdmr&show_icons=true&locale=en&layout=compact" alt="furkantasdemir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanTsdmr&show_icons=true&locale=en" alt="FurkanTsdmr" width="50%" /></p><br />
 <br />
 

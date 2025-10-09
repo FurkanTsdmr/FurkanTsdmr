@@ -1,4 +1,20 @@
 Hi there 👋 I am Furkan..
+Hi — I’m Furkan Taşdemir. I’ve been working in frontend development for over 4 years, focusing on HTML, CSS, JavaScript, React, and Angular. 
+For the past 1.5 years I’ve served as a Frontend Technical Coordinator at Patika.dev, mentoring students, producing educational content, and coordinating technical courses.
+
+Before moving into frontend, I spent many years in cybersecurity — an experience that strengthened my teamwork, leadership and analytical skills.
+I also worked for 1.5 years at an innovation center in roles covering management, web design and cybersecurity instruction. 
+I’m a curious developer who learns by reading and trial-and-error, always aiming for practical, well-tested solutions.
+
+I value continuous learning — I hold 20+ certificates from platforms like edX and Udemy (React, Frontend Development, Game Development, Cyber Security, Blender, C#, Unity). I have 4 published games on Google Play and a platform game currently in development. I also compiled my cybersecurity notes into a public book available on GitHub.
+
+Projects & Links
+
+GitHub: https://github.com/FurkanTsdmr
+
+Google Play: https://play.google.com/store/apps/developer?id=Furkan+Ta%C5%9Fdemir
+
+Cyber security notes (book): https://github.com/FurkanTsdmr/ETIK-HACKER/blob/main/K%C4%B0TAP.md
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/furkan-tasdemir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/mertoztat/" height="30" width="40" /></a>

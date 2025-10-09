@@ -10,7 +10,6 @@ I value continuous learning — I hold 20+ certificates from platforms like edX 
 
 Projects & Links
 
-GitHub: https://github.com/FurkanTsdmr
 
 Google Play: https://play.google.com/store/apps/developer?id=Furkan+Ta%C5%9Fdemir
 
@@ -32,8 +31,7 @@ Cyber security notes (book): https://github.com/FurkanTsdmr/ETIK-HACKER/blob/mai
   </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
  
-![snake gif](https://github.com/FurkanTsdmr/FurkanTsdmr/blob/output/github-contribution-grid-snake.gif)
----
+
 
 
 <p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FurkanTsdmr" alt="furkantasdemir" /></a></p>
